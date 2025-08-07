@@ -1,6 +1,6 @@
 Hello, Am Mendu or you can also call me Code_
 <br />
-I mainly use Java, Javascript and C
+I like lemons
 <br />
 <br />
 <br />
