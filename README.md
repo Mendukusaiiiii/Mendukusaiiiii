@@ -32,8 +32,8 @@
 
 
 ## About Me
-- I like lemons 
-- I create games (crappy ones) 
+- I like lemons 🍋
+- I create games.
 - I also do art! :D
 
 
