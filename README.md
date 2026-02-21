@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/Newgrounds-FF7F00?style=for-the-badge&logo=newgrounds&logoColor=white"/>
   </a>
 
-   <a href="mendukusaiiiii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+   <span style="display:inline-block; padding:0 5px; font-size:14px; font-weight:bold; color:#D14836; background:#fff; border:1px solid #D14836; border-radius:5px; line-height:30px;">
+    your@email.com
+  </span>
 </p>
 
 
