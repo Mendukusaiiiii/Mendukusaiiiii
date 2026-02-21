@@ -45,9 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 
-<a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-sketchbook.svg" alt="autodesk sketchbook" width="40" height="40"/>
-</a>
 
 
 
