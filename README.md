@@ -13,7 +13,11 @@
   <a href="https://discordapp.com/users/1034987397290676285" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://scratch.mit.edu/users/Code_069/" target="_blank">
+  <a href="https://mendukusaii.newgrounds.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Newgrounds-FF7F00?style=for-the-badge&logo=newgrounds&logoColor=white"/>
+  </a>
+
+   <a href="https://scratch.mit.edu/users/Code_069/" target="_blank">
     <img src="https://img.shields.io/badge/Scratch-FED425?style=for-the-badge&logo=scratch&logoColor=black"/>
   </a>
 </p>
