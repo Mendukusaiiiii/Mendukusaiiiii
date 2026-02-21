@@ -1,6 +1,6 @@
 #  Halo!!! I'm Code 069, also known as Mendukusai
 
-## Connect with Me
+## Connections
 
 <p align="left">
   <a href="https://twitter.com/code_069" target="_blank">
@@ -17,7 +17,7 @@
 
 
 
-## Languages & Tools
+## Languages
 
 <p align="left">
 
