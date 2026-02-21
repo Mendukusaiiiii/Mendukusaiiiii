@@ -1,4 +1,4 @@
-#  Halo!!! I'm Code 069, also known as Mendukusai
+#  Halo!!! I'm Code 069, also known as Mendu
 
 ## Connections
 
